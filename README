@@ -1,0 +1,10 @@
+Dizideki sayıların harmonik ortalamasını hesaplayan programı yazınız.
+
+```
+Harmonik ortalama (H) = (n) / ((1 / x₁) + (1 / x₂))
+```
+
+Burada, \(x₁\) ve \(x₂\) sırasıyla 4 ve 6 sayılarını temsil ediyor. \(n\) ise toplam sayı adedidir.
+
+Bu nedenle, 4 ve 6 sayılarının harmonik ortalaması
+ 4.8'dir.
